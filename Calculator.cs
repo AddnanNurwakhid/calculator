@@ -14,8 +14,10 @@ namespace Calculator{
 			Console.WriteLine("4. Pembagian \n");
 			Console.WriteLine("Masukan pilihan menu : ");
 			pil = Convert.ToInt32(Console.ReadLine()); 
+			
 			Console.WriteLine("Masukan nilai A : ");
 			a = Convert.ToInt32(Console.ReadLine());
+			
 			Console.WriteLine("Masukan nilai B : ");
 			b = Convert.ToInt32(Console.ReadLine());
 
